@@ -1,5 +1,5 @@
 # Open-port
-An pyton based tool to scan open ports in a network
+An python based tool to scan open ports in a network
 
 # Usage 
     python scanner.py
@@ -22,4 +22,4 @@ After scan completes you get the details of open ports on that host machine
 
 
 This is only for educational purpose author takes no responsibility of your acts kindly refer the law in your region regarding this.
-conatact Harmhacker@protonmail.com
+contact Harmhacker@protonmail.com
